@@ -2,7 +2,7 @@
 # Script creates a RouterBased VPN Gateway
 # Uses native Azure certificate authentication with PPP Windows client 
 # 
-# ver.1.0
+# ver.1.11
 # Author: Martin Eckeroth
 #
 # SETUP
